@@ -20,7 +20,7 @@ This lab demonstrates how to connect two separate LANs using two routers and sta
 
 ## 📐 Topology
 
-![Topology Screenshot](.topology.png)
+![Topology Screenshot](.topology.PNG)
 
 ## 🌐 IP Address Configuration
 
